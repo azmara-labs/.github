@@ -1,24 +1,7 @@
-## Summary
+## Why
 
-<!-- What does this PR do, and why? -->
+Issue Key (GitHub issue / Linear / JIRA):
 
-## Type of change
+## Short Overview of Changes
 
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Breaking change
-- [ ] Documentation
-- [ ] Chore / tooling / dependencies
-
-## Testing
-
-<!-- How did you verify this works? Commands run, screenshots for UI changes, etc. -->
-
-## Checklist
-
-- [ ] Tests pass locally (`pnpm test`)
-- [ ] Types check locally (`pnpm check-types`)
-- [ ] Lint passes locally (`pnpm lint`)
-- [ ] Added a changeset if this touches a published package (`pnpm changeset add`)
-- [ ] Updated relevant docs if behaviour changed
-- [ ] I've signed the [CLA](https://github.com/azmara-labs/azmara-platform/blob/main/CLA.md) (first-time contributors — the CLA bot will prompt you if not)
+## Anything Unusual
